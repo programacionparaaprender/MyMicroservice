@@ -1,0 +1,11 @@
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\bin\Debug\net8.0\MyMicroservice.Domain.deps.json
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\bin\Debug\net8.0\MyMicroservice.Domain.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\bin\Debug\net8.0\MyMicroservice.Domain.pdb
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.AssemblyInfoInputs.cache
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.AssemblyInfo.cs
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\refint\MyMicroservice.Domain.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.pdb
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\ref\MyMicroservice.Domain.dll

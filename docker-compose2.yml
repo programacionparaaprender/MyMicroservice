@@ -1,0 +1,27 @@
+version: "3.9"
+
+services:
+  netcore_app:
+    container_name: netcore_app
+    image: pee-netcore_app:1.0.0
+    build: 
+     context: ./
+     dockerfile: /FBTarjetaApi6/Dockerfile
+    ports:
+      - 7207:7207
+    environment:
+      - DATABASE_URL=localhost:5432
+      - DATABASE=postgres
+      - DATABASE_USERNAME=postgres
+      - DATABASE_PASSWORD=postgres
+    depends_on:
+      - netcore_db
+  netcore_db:
+    container_name: netcore_db
+    image: postgres:12
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres

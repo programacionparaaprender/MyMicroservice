@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyMicroservice.Domain/1.0.0": {
+        "runtime": {
+          "MyMicroservice.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMicroservice.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

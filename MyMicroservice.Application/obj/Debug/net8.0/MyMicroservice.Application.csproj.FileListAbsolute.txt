@@ -1,0 +1,15 @@
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\bin\Debug\net8.0\MyMicroservice.Application.deps.json
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\bin\Debug\net8.0\MyMicroservice.Application.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\bin\Debug\net8.0\MyMicroservice.Application.pdb
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\bin\Debug\net8.0\MyMicroservice.Domain.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\bin\Debug\net8.0\MyMicroservice.Domain.pdb
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.csproj.AssemblyReference.cache
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.AssemblyInfoInputs.cache
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.AssemblyInfo.cs
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.csproj.CoreCompileInputs.cache
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicros.9C52028C.Up2Date
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\refint\MyMicroservice.Application.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.pdb
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\ref\MyMicroservice.Application.dll

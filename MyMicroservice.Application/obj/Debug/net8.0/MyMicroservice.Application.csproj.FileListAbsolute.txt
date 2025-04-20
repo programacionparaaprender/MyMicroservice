@@ -13,3 +13,4 @@ C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\De
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\refint\MyMicroservice.Application.dll
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.pdb
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\ref\MyMicroservice.Application.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Application\obj\Debug\net8.0\MyMicroservice.Application.sourcelink.json

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMicroservice.GraphQL", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMicroservice.Infrastructure", "MyMicroservice.Infrastructure\MyMicroservice.Infrastructure.csproj", "{4F31254D-5BBB-4FD6-9DE5-3BA6C9429C58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMicroservice.Tests", "MyMicroservice.Tests\MyMicroservice.Tests.csproj", "{8F9B30D2-F611-4238-AAE1-9254788F1227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{4F31254D-5BBB-4FD6-9DE5-3BA6C9429C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F31254D-5BBB-4FD6-9DE5-3BA6C9429C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F31254D-5BBB-4FD6-9DE5-3BA6C9429C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9B30D2-F611-4238-AAE1-9254788F1227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9B30D2-F611-4238-AAE1-9254788F1227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9B30D2-F611-4238-AAE1-9254788F1227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9B30D2-F611-4238-AAE1-9254788F1227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

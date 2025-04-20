@@ -17,3 +17,4 @@ C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Infrastructure\obj
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Infrastructure\obj\Debug\net8.0\MyMicroservice.Infrastructure.pdb
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Infrastructure\obj\Debug\net8.0\MyMicroservice.Infrastructure.genruntimeconfig.cache
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Infrastructure\obj\Debug\net8.0\ref\MyMicroservice.Infrastructure.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Infrastructure\obj\Debug\net8.0\MyMicroservice.Infrastructure.sourcelink.json

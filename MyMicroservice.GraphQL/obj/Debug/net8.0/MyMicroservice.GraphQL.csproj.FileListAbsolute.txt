@@ -17,3 +17,4 @@ C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.GraphQL\obj\Debug\
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.GraphQL\obj\Debug\net8.0\refint\MyMicroservice.GraphQL.dll
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.GraphQL\obj\Debug\net8.0\MyMicroservice.GraphQL.pdb
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.GraphQL\obj\Debug\net8.0\ref\MyMicroservice.GraphQL.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.GraphQL\obj\Debug\net8.0\MyMicroservice.GraphQL.sourcelink.json

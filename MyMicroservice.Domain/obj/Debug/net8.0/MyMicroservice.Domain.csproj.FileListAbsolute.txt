@@ -9,3 +9,4 @@ C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\n
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\refint\MyMicroservice.Domain.dll
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.pdb
 C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\ref\MyMicroservice.Domain.dll
+C:\Users\luis1\Documents\htdocs\MyMicroservice\MyMicroservice.Domain\obj\Debug\net8.0\MyMicroservice.Domain.sourcelink.json

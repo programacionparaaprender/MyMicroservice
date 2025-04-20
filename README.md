@@ -58,6 +58,19 @@
 >- dotnet ef database update --project MyMicroservice.Infrastructure --startup-project MyMicroservice.API
 >- dotnet run --project MyMicroservice.API
 
+### pruebas unitarias
+>- dotnet test MyMicroservice.Tests/MyMicroservice.Tests.csproj
+>- dotnet new xunit -n MyMicroservice.Tests
+>- dotnet sln add MyMicroservice.Tests/MyMicroservice.Tests.csproj
+>- dotnet add MyMicroservice.Tests reference MyMicroservice.API
+>- dotnet add MyMicroservice.Tests reference MyMicroservice.Infrastructure
+>- dotnet add MyMicroservice.Tests package Moq
+>- dotnet add MyMicroservice.Tests package FluentAssertions
+>- dotnet add MyMicroservice.Tests package Microsoft.AspNetCore.Mvc.Testing
+>- dotnet test ./MyMicroservice.Tests/MyMicroservice.Tests.csproj
+
+
+
 ### Swagger:
 >- http://localhost:5062/swagger
 
